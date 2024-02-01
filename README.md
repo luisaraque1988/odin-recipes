@@ -1,0 +1,1 @@
+This is my first project from the Odin Project Course. Here we are applying the basis HTML tags and elements by constructing a recipe website. On the html archive we put relative links that contain basic html elements: headings, paragraphs, images and lists.
