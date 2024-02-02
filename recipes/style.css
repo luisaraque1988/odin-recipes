@@ -1,0 +1,29 @@
+.head {
+    background-color: gray;
+    color: aqua;
+    text-align: center;
+    font-family: Garamond, Georgia, serif;
+}
+
+.head.first {
+    font-size: 38px;
+    font-weight: 900;
+}
+
+.head.second{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+p, ul, ol {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(190, 6, 6);
+}
+
+.third {
+    font-size: 24px;
+    color: aqua;
+    font-weight: 700;
+
+}
